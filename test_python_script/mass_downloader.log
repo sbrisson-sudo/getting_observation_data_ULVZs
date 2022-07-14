@@ -1,0 +1,842 @@
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.32 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [195.24 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/8A.BAHE.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1575.30 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [147.42 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/8A.GAMM.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.3 seconds [455.96 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.3 MB [211.77 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/8A.HAO.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1243.83 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [271.72 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/8A.HOCH.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1522.01 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [218.37 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/8A.KANO.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1396.96 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.06 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [283.04 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/8A.NEPA.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1155.41 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.09 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.4 MB [344.15 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/8A.OMUT.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1698.52 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [190.89 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/8A.OTJO.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1639.92 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.06 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.3 MB [328.62 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/8A.WEWE.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1580.97 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.3 MB [260.63 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.BLWY.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1115.98 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [200.07 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.CRLN.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1975.54 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [183.76 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.CVNA.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2236.33 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.07 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [189.72 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.HVD.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2589.49 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [171.17 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.MOPA.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2315.59 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.07 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [112.56 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.POGA.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2822.36 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.3 MB [300.98 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.SKRH.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1277.39 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [194.06 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.SNKL.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.2 MB] in 0.1 seconds [1528.19 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [135.92 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.SOE.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.2 seconds [1701.99 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.07 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [194.29 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.SWZ.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2588.51 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.3 MB [295.66 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.TEBE.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1520.88 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [208.87 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.UPI.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2759.15 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.3 MB [294.90 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/AF.WDLM.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.2 seconds [2034.01 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [241.02 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/G.ATD.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [395.30 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.3 MB [309.24 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/G.CRZF.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [289.65 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.07 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 2 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [171.04 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 1 time intervals/channels after downloading: DOWNLOAD_FAILED
+Client 'IRIS' - Status for 2 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/G.FOMA.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [484.17 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 2 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [154.24 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 1 time intervals/channels after downloading: DOWNLOAD_FAILED
+Client 'IRIS' - Status for 2 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/G.TAM.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [428.48 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.10 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [156.15 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/GE.EIL.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [313.24 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.07 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [192.82 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/GE.SOCY.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [271.48 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.3 MB [238.59 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/GT.BOSA.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [963.41 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.3 MB [287.51 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/GT.LBTB.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [889.14 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.11 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [146.64 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/II.ABPO.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [493.76 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.10 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [155.98 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/II.MBAR.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [372.61 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.13 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [124.77 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/II.RAYN.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [355.39 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.10 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [214.10 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/II.SUR.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [339.90 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.12 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.1 MB [156.64 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/II.UOSS.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [313.64 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.16 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [183.07 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/IU.FURI.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.2 seconds [162.50 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.14 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [210.27 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/IU.KMBO.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.2 seconds [160.15 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.21 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [196.47 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/IU.LSZ.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [339.50 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.12 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [211.29 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/IU.TSUM.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.0 MB] in 0.1 seconds [315.14 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - No data available for request.
+Client 'IRIS' - No data available.
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [469.34 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.AJEE.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2499.02 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.4 MB [407.50 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.ASSE.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2317.22 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.5 MB [438.08 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.BEKO.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2582.57 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [441.96 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.BESH.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2149.24 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [488.05 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.BETI.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2456.47 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [475.49 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.CHEF.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2497.18 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [472.27 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.CORB.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2327.66 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [433.09 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.GOND.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2554.58 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [459.88 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.GRIM.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2167.62 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [498.71 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.GULA.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2522.63 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [406.04 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.HABU.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2203.36 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [468.24 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.ITTE.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2569.16 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [488.57 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.KADO.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2143.64 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.7 MB [417.74 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.MILA.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2403.23 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [405.46 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.ODAS.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2597.34 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [466.26 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.OGOL.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2509.25 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [451.17 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.POWR.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2206.16 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [437.08 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.SAGU.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2349.74 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [391.67 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.SHAS.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.3 seconds [1069.68 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [488.38 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.SPEC.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2046.61 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [453.20 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.TATA.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2328.68 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [464.38 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.TULL.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2181.27 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [373.39 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.ULAR.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2156.43 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.5 MB [419.89 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.WOND.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.2 seconds [2040.16 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.05 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.6 MB [395.34 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/Y6.YIRG.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.3 MB] in 0.1 seconds [2181.04 KB/sec].
+Total acquired or preexisting stations: 0
+Client 'IRIS' - Requesting reliable availability.
+Client 'IRIS' - Successfully requested availability (0.06 seconds)
+Client 'IRIS' - Found 1 stations (3 channels).
+Client 'IRIS' - Will attempt to download data from 1 stations.
+Client 'IRIS' - Status for 3 time intervals/channels before downloading: NEEDS_DOWNLOADING
+Client 'IRIS' - Successfully downloaded 3 channels (of 3)
+Client 'IRIS' - Launching basic QC checks...
+Client 'IRIS' - Downloaded 0.2 MB [294.53 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+Client 'IRIS' - Status for 3 time intervals/channels after downloading: DOWNLOADED
+Client 'IRIS' - Successfully downloaded 'stations/ZT.LESE.xml'.
+Client 'IRIS' - Downloaded 1 station files [0.1 MB] in 0.1 seconds [1444.41 KB/sec].
