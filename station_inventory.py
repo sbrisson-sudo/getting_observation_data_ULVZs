@@ -70,17 +70,20 @@ class MyInventory:
     def nb_networks(self):
         return self.stations["nw"].drop_duplicates().shape[0]
     
-    def write(self, out_file = "receivers.dat"):
+    def write(self, out_file = "receivers.dat",n_char_stn=5, pad=False):
         """Write to receivers.dat file"""
         f = open(out_file, 'w')
         f.write(f"Nombre de stations:\n{len(self.stations.index)}\nnw stn lat lon:\n")
         for index, row in self.stations.iterrows():
 
             # pad station and network codes  with underscores
-            code_stn = row['code'] + "_"*(5-len(row['code']))
-            code_nw = row['nw'] + "_"*(2-len(row['nw']))
+            if pad:
+                code_stn = row['code'] + "_"*(n_char_stn-len(row['code']))
+                code_nw = row['nw'] + "_"*(2-len(row['nw']))
+                f.write(f"{code_nw} {code_stn} {row['lat']:2.4f} {row['lon']:2.4f}\n")
+            else:
+                f.write(f"{row['nw']:<2} {row['code'][:n_char_stn]:<4} {row['lat']:8.4f}  {row['lon']:8.4f}\n")
 
-            f.write(f"{code_nw} {code_stn} {row['lat']:2.4f} {row['lon']:2.4f}\n")
         f.close()
 
     def read_fromDat(self, in_file="receivers.dat"):
