@@ -72,8 +72,10 @@ class MyInventory:
     
     def write(self, out_file = "receivers.dat",n_char_stn=5, pad=False):
         """Write to receivers.dat file"""
+
         f = open(out_file, 'w')
         f.write(f"Nombre de stations:\n{len(self.stations.index)}\nnw stn lat lon:\n")
+
         for index, row in self.stations.iterrows():
 
             # pad station and network codes  with underscores
@@ -88,7 +90,9 @@ class MyInventory:
 
     def read_fromDat(self, in_file="receivers.dat"):
 
-        df = pd.read_csv(in_file, header = 2, sep = "\s+")
+        df = pd.read_csv(in_file, header = 2, sep = "\s+",
+        na_filter=False # there is a network called NA
+        )
 
         df.rename(columns = {'stn':'code', 'lon:':'lon'}, inplace = True) 
         self.stations = df
